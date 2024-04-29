@@ -2,7 +2,7 @@ module gitlab.com/pluja/blogo
 
 go 1.21
 
-toolchain go1.21.3
+toolchain go1.22.2
 
 require (
 	github.com/alecthomas/chroma/v2 v2.12.0
