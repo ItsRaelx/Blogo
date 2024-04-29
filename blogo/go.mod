@@ -17,7 +17,7 @@ require (
 	github.com/nbd-wtf/go-nostr v0.28.6
 	github.com/rs/cors v1.10.1
 	github.com/rs/zerolog v1.32.0
-	github.com/yuin/goldmark v1.7.0
+	github.com/yuin/goldmark v1.7.1
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
 	github.com/yuin/goldmark-meta v1.1.0
 	gopkg.in/yaml.v2 v2.4.0
